@@ -3,6 +3,7 @@
 ## Link para a playlist no youtube = 
 [![curso webServer lvl1](http://img.youtube.com/vi/fqR5SymRgLQ/0.jpg)](http://www.youtube.com/watch?v=fqR5SymRgLQ "playlist de vídeos ")
 
+
 ### Print do Cénario>>
 
 ![alt text](https://cdn.discordapp.com/attachments/706930265909493771/745765532472705044/unknown.png)
