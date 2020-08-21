@@ -1,7 +1,7 @@
 # Projeto - Servidor Tomcat
 
 ## Link para a playlist no youtube = 
-[![playlist servidor tomcat lvl1](http://img.youtube.com/vi/fqR5SymRgLQ/0.jpg)](http://www.youtube.com/watch?v=fqR5SymRgLQ "servidor tomcat")
+[![playlist servidor tomcat lvl1]([![playlist servidor tomcat lvl1](http://img.youtube.com/vi/nuRy0omG06o/0.jpg)](http://www.youtube.com/watch?v=nuRy0omG06o "Servidor tomcat")")
 
 
 ## Print do cenário>>
